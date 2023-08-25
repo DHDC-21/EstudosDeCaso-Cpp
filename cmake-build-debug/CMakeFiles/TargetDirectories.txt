@@ -1,0 +1,3 @@
+C:/EstudosDeCaso-C/cmake-build-debug/CMakeFiles/EstudosDeCaso_C.dir
+C:/EstudosDeCaso-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/EstudosDeCaso-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

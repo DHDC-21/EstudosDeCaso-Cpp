@@ -1,0 +1,6 @@
+# ninja log v5
+1	461	7146792804774593	CMakeFiles/EstudosDeCaso_C.dir/main.cpp.obj	27ff4d3ff2d1afa0
+517	600	7146794134694411	EstudosDeCaso_C.exe	632ddf32ecd5fe32
+0	517	7146794133872917	CMakeFiles/EstudosDeCaso_C.dir/2023-08-18/Exercicio-01.cpp.obj	eee89c79101cf9cf
+3	499	7146793289105775	CMakeFiles/EstudosDeCaso_C.dir/2023-08-18-Exercicio-1/main.cpp.obj	5b46174a69c5aea1
+1	141	7146795192669676	build.ninja	e70a666ebefd4dc7
